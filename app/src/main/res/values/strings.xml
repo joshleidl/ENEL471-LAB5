@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facebook Test</string>
+    <string name="forgot_password"><u>Forgot password?</u></string>
+    <string name="signup"><u>Sign up for Facebook</u></string>
+</resources>
